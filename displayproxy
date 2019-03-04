@@ -1,0 +1,3 @@
+netsh.exe winhttp show proxy
+
+show proxy
